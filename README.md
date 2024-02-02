@@ -54,6 +54,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you use this code or our methodology in your research, please cite our paper:
 
 ```
+Zhenyu Xu, Ruoyu Xu, Victor S. Sheng, "Beyond Binary Classification: Customizable Text Watermark on Large Language Models," submitted to IJCNN 2024.
 ```
 
 ## Contact
