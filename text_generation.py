@@ -1,12 +1,6 @@
 import openai
 
 def generate_text_without_pattern(api_key, prompt, temperature, max_length):
-    # ... your function ...
-
-def generate_text_with_pattern(api_key, prompt, pattern, temperature, max_retries=3):
-    # ... your function ...
-
-def generate_text_without_pattern(api_key, prompt, temperature, max_length):
     """
     Generate text using OpenAI GPT-3 model without a specific pattern.
 
