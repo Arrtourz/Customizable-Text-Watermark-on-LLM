@@ -56,7 +56,11 @@ If you use this code or our methodology in your research, please cite our paper:
 ```
 Xu, Z., Xu, R., & Sheng, V. S. (2024, June). Beyond Binary Classification: Customizable Text Watermark on Large Language Models. In 2024 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.
 ```
+And
 
+```
+Xu, Z., & Sheng, V. S. (2024). Signal Watermark on Large Language Models. arXiv preprint arXiv:2410.06545.
+```
 ## Contact
 
 For any inquiries, please open an issue in this repository or contact us directly at [zhenxu@ttu.edu].
